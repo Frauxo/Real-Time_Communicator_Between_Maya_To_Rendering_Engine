@@ -2,6 +2,7 @@ Description
 ===============
 This lets you see a live view in a rendering engine of what you are doing in Maya.
 Using MayaAPI to create callbacks and send messages to the rendering engine using a circular buffer.
+Demonstration: https://youtu.be/fkHHOqvgPpg
 
 Setup
 ===============
